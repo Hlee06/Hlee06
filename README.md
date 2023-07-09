@@ -9,6 +9,7 @@
 - <b>Securing Cloud Applications</b>
   - [Securing](https://github.com/Hlee06/SecuringCA)
 
+![Houa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hlee06&show_icons=true&theme=tokyonight)
 
 <h2> 🤳 Connect with me:</h2>
 
