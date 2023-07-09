@@ -11,7 +11,7 @@
 
 ![Houa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hlee06&show_icons=true&theme=tokyonight)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤝 Connect with me:</h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hlee06) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/houa-lee-b61241241//)  
